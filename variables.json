@@ -1,0 +1,4 @@
+{
+    "CHECK_SH": "/home/esthercho/airflow/dags/check.sh",
+    "CSV_SH": "/home/esthercho/airflow/dags/csv.sh"
+}
